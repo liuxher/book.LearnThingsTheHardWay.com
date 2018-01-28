@@ -17,7 +17,7 @@
    * [路意Louis：我们应当怎样学习？](chapter01/note11.md)
    * [笨方法歌单：](chapter01/note12.md)
    * [安杰拉·达克沃思：坚毅的力量](chapter01/note15.md)
-   * [习题 00：](chapter01/note01.md)
+   * [李昌镐：只求51%的效率](chapter01/note16.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
