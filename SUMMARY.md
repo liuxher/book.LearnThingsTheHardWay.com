@@ -18,7 +18,7 @@
    * [笨方法歌单：](chapter01/note12.md)
    * [安杰拉·达克沃思：坚毅的力量](chapter01/note15.md)
    * [李昌镐：只求51%的效率](chapter01/note16.md)
-   * [习题 00：](chapter01/note01.md)
+   * [《舌尖上的中国》:将难事变得轻而易举。](chapter01/note17.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
