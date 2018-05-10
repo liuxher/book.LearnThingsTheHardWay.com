@@ -21,7 +21,7 @@
    * [《舌尖上的中国》:将难事变得轻而易举](chapter01/note17.md)
    * [稻盛和夫：「笨拙」的干法](chapter01/note18.md)
    * [caoz：做人和做企业](chapter01/note19.md)
-   * [习题 00：](chapter01/note01.md)
+   * [沈从文：我是一个死心眼笨人：](chapter01/note20.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
