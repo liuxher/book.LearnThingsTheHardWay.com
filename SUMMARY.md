@@ -23,7 +23,7 @@
    * [caoz：做人和做企业](chapter01/note19.md)
    * [沈从文：我是一个死心眼笨人：](chapter01/note20.md)
    * [唐德刚：我如何用笨方法读《资治通鉴》](chapter01/note21.md)
-   * [习题 00：](chapter01/note01.md)
+   * [王佩：写作不需要天才，但需要找对方法](chapter01/note22.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
