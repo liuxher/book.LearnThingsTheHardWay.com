@@ -2,6 +2,7 @@
 
 * [序言](chapter00/preface00.md)
 * [文集](chapter01/README.md)
+   * [曾国藩：有绝顶聪明而肯作笨功夫的人才有大成就](chapter01/note25.md)
    * [丰子恺：为青年说弘一法师](chapter01/note14.md)
    * [坚毅：笨方法的第一步](chapter01/note13.md)
    * [陈虎平：下笨功夫，打持久战](chapter01/note07.md)
@@ -26,7 +27,6 @@
    * [王佩：写作不需要天才，但需要找对方法](chapter01/note22.md)
    * [钱钟书：越是聪明人，越要懂得下笨功夫！](chapter01/note23.md)
    * [斯科特·亚当斯：写作的目标与系统](chapter01/note024.md)
-   * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
