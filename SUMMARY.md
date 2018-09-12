@@ -27,7 +27,7 @@
    * [王佩：写作不需要天才，但需要找对方法](chapter01/note22.md)
    * [钱钟书：越是聪明人，越要懂得下笨功夫！](chapter01/note23.md)
    * [斯科特·亚当斯：写作的目标与系统](chapter01/note024.md)
-   * [习题 00：](chapter01/note01.md)
+   * [《重新定义公司》：有激情的人不把“激情”挂嘴边](chapter01/note26.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
    * [习题 00：](chapter01/note01.md)
